@@ -15,6 +15,8 @@ Program for working with NETMD devices.
 
 The program in the beta testing stage is a request for bugs and proposals to leave in https://t.me/netmdtool in the same channel will be fresh updates
 
+[Driver for working with NETMD devices](https://zadig.akeo.ie/)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Программа для работы с NetMD устройствами.
@@ -32,6 +34,8 @@ The program in the beta testing stage is a request for bugs and proposals to lea
 просьба баги и предложения оставлять
 в https://t.me/NetMDTool
 В этом же канале будут свежие обновления
+
+[Драйвер для работы с NETMD устройствами](https://zadig.akeo.ie/)
 
 Donate links:
 - alfabank 2200151314494100
