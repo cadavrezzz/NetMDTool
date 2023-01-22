@@ -1,6 +1,22 @@
 # NetMDTool
 ![](https://github.com/cadavrezzz/NetMDTool/blob/main/2023-01-11_23-50-09.png)
 
+Program for working with NETMD devices.
+
+**Basic possibilities:**
+
+- Support formats MP3, FLAC, WAV, OGG formats (Vorbis, Opus, Flac), Ape, DSF
+- Automatic transliteration of tags Rus-> Lat
+- SP recording with full quality, unlike Sonic Stage
+- Selection of compression mode SP, LP2, LP4
+- Choosing Titling format-Title-Artist, Artist-Title, Title
+
+[Fresh release](https://github.com/cadavrezzz/NetMDTool/releases/)
+
+The program in the beta testing stage is a request for bugs and proposals to leave in https://t.me/netmdtool in the same channel will be fresh updates
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Программа для работы с NetMD устройствами.
 
 **Основные возможности:**
@@ -16,3 +32,9 @@
 просьба баги и предложения оставлять
 в https://t.me/NetMDTool
 В этом же канале будут свежие обновления
+
+Donate links:
+- alfabank 2200151314494100
+- sber 2202200485977746
+- bitcoin 12AK6yuDAW3DPh2LYBLEuCXXPyhyreZmtD
+- ethereum 0x53312deF9cf8f0f4Cc61aF436060f8232B590e14
