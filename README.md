@@ -5,7 +5,8 @@ Program for working with NETMD devices.
 
 **Basic possibilities:**
 
-- Support formats MP3, FLAC, WAV, OGG formats (Vorbis, Opus, Flac), Ape, DSF, M4A
+- Support formats MP3, FLAC, WAV, OGG formats (Vorbis, Opus, Flac), Ape, DSF, M4A, WAVPack
+- Support CUE sheets
 - Automatic transliteration of tags Rus-> Lat
 - SP recording with full quality, unlike Sonic Stage
 - Selection of compression mode SP, LP2, LP4
@@ -22,7 +23,8 @@ The program in the beta testing stage is a request for bugs and proposals to lea
 Программа для работы с NetMD устройствами.
 
 **Основные возможности:**
-- Поддержка форматов mp3, flac, wav, ogg(кодеки Vorbis,Opus,FLAC), ape, dsf, M4A
+- Поддержка форматов mp3, flac, wav, ogg(кодеки Vorbis,Opus,FLAC), ape, dsf, M4A, WAVPack
+- Поддержка CUE листов
 - Автоматическая транcлитерация тегов rus->lat
 - Запись SP с полным качеством, в отличии от sonic stage
 - Выбор режима компрессии SP, LP2, LP4
@@ -42,3 +44,4 @@ Donate links:
 - sber 2202200485977746
 - bitcoin 12AK6yuDAW3DPh2LYBLEuCXXPyhyreZmtD
 - ethereum 0x53312deF9cf8f0f4Cc61aF436060f8232B590e14
+- Monero 45b5VryTfTgj5mbP49Lh27A9A2js3gKrJeVo1pQRgiUrfvtnUh2Dk8q9dNQKeiWPvdQt5HewwhaT6SQ6XagcWCsLGj1NYe2
