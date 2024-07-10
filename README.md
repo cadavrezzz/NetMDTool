@@ -47,3 +47,4 @@ Donate links:
 - bitcoin 12AK6yuDAW3DPh2LYBLEuCXXPyhyreZmtD
 - ethereum 0x53312deF9cf8f0f4Cc61aF436060f8232B590e14
 - Monero 45b5VryTfTgj5mbP49Lh27A9A2js3gKrJeVo1pQRgiUrfvtnUh2Dk8q9dNQKeiWPvdQt5HewwhaT6SQ6XagcWCsLGj1NYe2
+- Ton/Not UQCHdUZM4mqOs8ljyzP6N3KX9NMd4pxv3iB-c39cX58Bzf02
